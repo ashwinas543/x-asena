@@ -1,5 +1,5 @@
 {
-  "name": "x-asena",
+  "name": "Bowt md",
   "version": "2.0.0",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neeraj-x0/x-asena.git"
+    "url": "git+https://github.com/ashwinas543/x-asena.git"
   },
   "keywords": [
     "whatsapp",
@@ -24,13 +24,13 @@
     "whatsapp api",
     "WhatsAsena"
   ],
-  "author": "X-Electra",
-  "developer": "X-Electra / Neeraj-x0",
+  "author": "Ashwin",
+  "developer": "bot / Ashwin",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Neeraj-x0/x-asena/issues"
+    "url": "https://instagram.com/ameteras_u?igshid=YmMyMTA2M2Y="
   },
-  "homepage": "https://github.com/Neeraj-x0/x-asena#readme",
+  "homepage": "https://github.com/ashwinas543/x-asena#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
